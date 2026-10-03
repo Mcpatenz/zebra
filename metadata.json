@@ -1,0 +1,6 @@
+{
+  "name": "Zebra Enterprise Operations Platform",
+  "description": "Enterprise branch operations, multi-tier RBAC, employee & customer management, transaction processing, approval workflows, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
